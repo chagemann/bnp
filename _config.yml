@@ -33,7 +33,7 @@ date_format: "%B %-d, %Y"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 
 # Build settings
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+theme: jekyll-theme-so-simple
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

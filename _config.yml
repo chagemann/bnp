@@ -40,7 +40,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
-permalink: /:categories/:title/
+permalink: /:title/
 markdown: kramdown
 feed:
   path: atom.xml  

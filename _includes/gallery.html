@@ -1,0 +1,17 @@
+<div id='gallery_pig'></div>
+<script src='{{site.baseurl}}/assets/js/pig.min.js'></script>
+<script>
+var gallery_pig = new Pig(
+    [{"datetime":"2019-05-12 12:51:09 +1000","filename":"little-art-explorers-2.jpg","aspectRatio":1.3333333333333333},{"datetime":"2019-06-16 16:45:30 +1000","filename":"little-art-explorers-3.jpg","aspectRatio":1.0},{"datetime":"2019-09-14 10:19:08 +1000","filename":"open-art-sessions-1.jpg","aspectRatio":1.1851851851851851},{"datetime":"2022-10-05 11:05:18 +1000","filename":"little-art-explorers-1.jpg","aspectRatio":1.3333333333333333}],
+    {
+        containerId: 'gallery_pig',
+        classPrefix: 'gallery_pig',
+        urlForSize: function(filename, size) {
+            return '{{site.baseurl}}/assets/img/gallery/' + size + '/' + filename;
+        },
+        onClickHandler: function(filename) {
+            window.location.href = '{{site.baseurl}}/assets/html/gallery/' + filename + '.html';
+        }
+    }
+).enable();
+</script>

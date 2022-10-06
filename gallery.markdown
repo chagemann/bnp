@@ -1,5 +1,7 @@
 ---
 layout: page
-# title: Gallery
+title: Gallery
 permalink: /gallery/
 ---
+
+{% include gallery.html %}

@@ -10,7 +10,7 @@ categories: open 5-to-8
 
 Activities are designed for children 5-8 years of age.
 
-[![Alt text for broken image link](/assets/images/button_booking.png)](https://www.bubblesandpaint.com)![image]({{ site.baseurl }}/assets/images/open-art-sessions-1.jpg){: .postImage width="200" align="right" }
+[![Alt text for broken image link]({{ site.baseurl }}/assets/images/button_booking.png)](https://www.bubblesandpaint.com)![image]({{ site.baseurl }}/assets/images/open-art-sessions-1.jpg){: .postImage width="200" align="right" }
 
 _Unfortunately, this class is currently not available._ 
 

@@ -10,7 +10,7 @@ categories: creative development 3-to-5
 
 Activities are designed for children 3-5 years of age.
 
-[![Alt text for broken image link](/assets/images/button_booking.png)](https://www.bubblesandpaint.com)![image]({{ site.baseurl }}/assets/images/little-art-explorers-2.jpg){: .postImage width="200" align="right" }
+[![Alt text for broken image link]({{ site.baseurl }}/assets/images/button_booking.png)](https://www.bubblesandpaint.com)![image]({{ site.baseurl }}/assets/images/little-art-explorers-2.jpg){: .postImage width="200" align="right" }
 
 _Unfortunately, this class is currently not available._ 
 

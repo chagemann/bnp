@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 # title: "Welcome to Bubbles and Paint"
-image: 
-  path: /assets/images/hero_header.png
+# image: 
+#   path: /assets/images/hero_header.png
 layout: home
 entries_layout: grid
 posts_limit: 99

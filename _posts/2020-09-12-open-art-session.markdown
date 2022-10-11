@@ -14,4 +14,4 @@ Activities are designed for children 5-8 years of age.
 
 _Unfortunately, this class is currently not available._ 
 
-Please check out our [other classes](https://www.trybooking.com/eventlist/bubblesandpaint) or [contact us](/contact) if you have an enquiry.
+Please check out our [other classes](https://www.trybooking.com/eventlist/bubblesandpaint) or [contact us]({{ site.baseurl }}/contact) if you have an enquiry.

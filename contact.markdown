@@ -4,12 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
-Mobile: 0&#52;&#049;&#051; &#057;&#049;&#052; &#057;&#055;&#056;
-
-Email: &#97;&#110;&#110;&#101;&#95;&#104;&#97;&#114;&#106;&#101;&#115;&#64;&#121;&#97;&#104;&#111;&#111;&#46;&#99;&#111;&#109;
+Please contact me via <a href="mailto:{{ 'anne_harjes@yahoo.com' | encode_email }}?Subject=Contact via Bubbles and Paint">email</a> or <a href="tel:{{ '0413 914 978' | encode_email }}">phone</a> or complete the form below.
 
 Location: Ashmore QLD 4214, Australia
-
 <hr/>
  
 &nbsp; 

@@ -30,17 +30,18 @@ url: "https://pages.github.com/chagemann/bnp" # the base hostname & protocol for
 logo: "/assets/images/logo_small.jpg"
 
 date_format: "%B %-d, %Y"
-google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+google_analytics: G-2J9DSPMK2L
 
 # Build settings / switch here to generate gallery?
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
-# theme: jekyll-theme-so-simple
+# remote_theme: "mmistakes/so-simple-theme@3.2.0"
+theme: jekyll-theme-so-simple
 plugins:
-  # - jekyll-seo-tag
-  # - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
   - jekyll-pig
+  - jekyll-email-protect
 
 permalink: /:title/
 markdown: kramdown
@@ -72,14 +73,15 @@ galleries:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - gallery/

@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Art Sessions"
 author: anne
-date: 10.09.2022
+date: 10.10.2020
 categories: open 5-to-8
 ---
 

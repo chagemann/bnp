@@ -32,9 +32,12 @@ logo: "/assets/images/logo_small.jpg"
 date_format: "%B %-d, %Y"
 google_analytics: G-2J9DSPMK2L
 
-# Build settings / switch here to generate gallery?
-# remote_theme: "mmistakes/so-simple-theme@3.2.0"
-theme: jekyll-theme-so-simple
+# GitHub pages
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
+
+# local dev | generate gallery
+# theme: jekyll-theme-so-simple
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

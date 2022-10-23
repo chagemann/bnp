@@ -5,3 +5,10 @@ anne:
   name: Anne
   email: anne@bubblesandpaint.com
   picture: /assets/images/anne.png
+  links:
+      - title: Facebook
+        url: https://www.facebook.com/bubblesandpaint
+        icon: fab fa-facebook-square
+      - title: Instragram
+        url: https://www.instagram.com/bubblesandpaint/
+        icon: fab fa-instagram

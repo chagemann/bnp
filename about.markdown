@@ -4,7 +4,7 @@ title: Welcome to Bubbles and Paint
 permalink: /about/
 ---
 
-![image]({{ site.baseurl }}/assets/images/anne2.jpg){: .postImage width="200" align="left" }My name is Anne and I'm the owner of Bubbles and Paint. 
+![image]({{ site.baseurl }}/assets/images/anne2.jpg){: .postImage width="300" align="left" }My name is Anne and I'm the owner of Bubbles and Paint. 
 
 I hold a Master degree of Inclusive Learning Therapy from the University of Hamburg and a diploma in Occupational Therapy (from Germany). I have also got an Australian qualification as Early Childhood Educator.
 
